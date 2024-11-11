@@ -23,3 +23,8 @@ A simple Weather App that allows users to search for cities and view current wea
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Sahil7733/Weather-App.git
+
+## Live Demo
+
+Check out the live version of the app [here](https://sahil7733.github.io/Weather-App/).
+
